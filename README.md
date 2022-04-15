@@ -72,7 +72,7 @@ python main.py
 <img src="https://user-images.githubusercontent.com/78701055/163562737-e6e29827-aa61-4dd8-804a-906d5abf8ab0.png" alt="" width="25%">
 </p>
 
-After setting up project just place you images in line folder under the data directory and run the main.py file again. The program will show you images and its output in terminal one by one. If you think that your images is not recognised clearly by program just change the threshold value according to your needs for best output.
+After setting up project just place your images in line folder under the data directory and run the main.py file again. The program will show you images and its output in terminal one by one. If you think that your images is not recognised clearly by program just change the threshold value according to your needs for best output.
 
 NOTE: The model is trained for the above mentioned images so given them only in input images for best output.
 
