@@ -74,7 +74,7 @@ python main.py
 
 After setting up project just place your images in `line` folder under the `data` directory and run the `main.py` file again. The program will show you images and its output in terminal one by one. If you think that your images is not recognised clearly by program just change the `threshold value` according to your needs for best output.
 
-NOTE: The model is trained for the above mentioned images so give them only in input images for best output.
+NOTE: The model is trained for the above mentioned letters so give them only in input images for best output.
 
 <br>
 <h3 align="left"> Made and maintained by : </h3>
