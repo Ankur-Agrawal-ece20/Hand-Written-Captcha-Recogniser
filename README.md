@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```bash
 pip install -e .
 ```
-5. Move to examples folde: 
+5. Move to examples folder: 
 ```bash
 cd examples
 ```
