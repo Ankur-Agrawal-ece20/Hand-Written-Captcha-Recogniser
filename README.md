@@ -31,7 +31,8 @@ and 7 emojis mapped as:
 |--|--|--|--|--|--|--|
 |Checkmark : 1 | Cloud: 2 | Croissant: 3 | Heart: 4 | Laugh: 5 | Smile: 6 | Sun: 7 |
 
-<h2 align="center"> Setting up the project : </h2>
+<br>
+<h2 align="left"> Setting up the project : </h2>
 
 1. Creating virtual environment:
 ```bash
@@ -63,7 +64,8 @@ cd examples
 ```bash
 python main.py
 ```
-<h2 align="center"> How to use : </h2>
+<br>
+<h2 align="left"> How to use : </h2>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78701055/163561542-863fc2c4-2f58-467d-ab4a-f1887db78f0e.png" alt="" width="70%">
@@ -74,7 +76,8 @@ After setting up project just place you images in line folder under the data dir
 
 NOTE: The model is trained for the above mentioned images so given them only in input images for best output.
 
-## Made and maintained by 
+<br>
+<h3 align="left"> Made and maintained by : </h3>
 
 |<img src="https://avatars.githubusercontent.com/u/78701055?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/76533398?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/75940729?v=4" alt="drawing" width="150"/> | 
 |--|--|--|
